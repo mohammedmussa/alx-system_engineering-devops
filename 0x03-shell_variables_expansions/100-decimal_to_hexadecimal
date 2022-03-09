@@ -1,2 +1,2 @@
 #!/bin/bash
-"obase=16; ibase=10; $hexNum" | 
+"obase=16 ibase=10 $hexNum" | 
